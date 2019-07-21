@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "tvPasindu\\testprojectpackages\\": "src/"
+            "tv-pasindu\\testprojectpackages\\": "src/"
         }
     }
 }
