@@ -1,6 +1,6 @@
 {
     "name": "tv-pasindu/testprojectpackages",
-    "description": "My first packagist package",
+    "description": "My first packagist package (Testing)",
     "type": "package",
     "require": {
         "php": ">=5.3.0"
