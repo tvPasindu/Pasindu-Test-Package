@@ -1,5 +1,5 @@
 {
-    "name": "tvPasindu/testprojectpackages",
+    "name": "tv-pasindu/testprojectpackages",
     "description": "My first packagist package",
     "type": "package",
     "require": {
